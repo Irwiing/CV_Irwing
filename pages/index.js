@@ -32,7 +32,7 @@ function HomePage(props) {
             <a className="flex items-center  hover:text-gray-600 pr-5" target="_blank"> 
               <FaLinkedinIn /> 
                 <p className="ml-2 hidden  sm:inline-flex">
-                  irwing-testone-763b26137
+                  irwing-t-guarnieri
                 </p> 
             </a>
             </Link>
